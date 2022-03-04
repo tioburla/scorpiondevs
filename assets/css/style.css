@@ -1,0 +1,171 @@
+    
+    .fundo{
+      background-color: #3ede86;
+        width: auto;
+        display: flex;
+        flex-direction: column;
+    }
+    body{
+        font-family: 'Hubballi';
+        font-size: 22px;
+        justify-content: center;
+    }
+    .container{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0;
+    }
+
+    .inicio{
+        display: flex;
+        width: 95%;
+        height: auto;
+        background-color: white;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        border-radius: 10px;
+    }
+    .logo{
+        width: auto;
+        margin-left: 4%;  
+    }
+    .download{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: center;
+        margin-left: 18%;
+        margin-right: 4%;
+        width:10%;
+        height:35px;
+        border-radius: 45px;
+        background-color: #282828;
+    }
+    .download a{
+        font-size: 18px;
+        display: inline-block;
+        text-align: center;
+        padding: 5%;
+        font-weight: 400;
+        color: white;
+        line-height: 1.42857;
+        text-decoration: none;
+    }
+    .about{
+        display: flex;
+        justify-content: center;
+        flex-direction: row;
+        align-items: center;
+        margin-right: 4%;
+        width:10%;
+        height:35px;
+        border-radius: 45px;
+        background-color: #282828;
+    }
+    .about a{
+        font-size: 18px;
+        display: inline-block;
+        text-align: center;
+        padding: 5%;
+        font-weight: 400;
+        color: white;
+        line-height: 1.42857;
+        text-decoration: none;
+    }
+    .container2{
+        margin-top: 1%;
+        display: flex;
+        width: 100%;
+        height: auto;
+        justify-content: center;
+        text-align: center;
+        flex-direction: row;
+        
+    }
+    .welcome{
+        width: 60%;
+        background-color: white;
+        border-radius: 10px;
+    }
+    .welcome p{
+        font-size: 30px;
+    }
+    .roms{
+        display: flex;
+        width: 30%;
+        margin-left: 5%;
+        background-color: white;
+        border-radius: 10px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .load{
+      background-color: #3ede86;
+      width: 150px;
+      height: 150px;
+    }
+    .container3{
+        margin-top: 1%;
+        display: flex;
+        width: 100%;
+        height: auto;
+        justify-content: center;
+        text-align: center;
+        flex-direction: row;
+    }
+    .devices{
+        display: flex;
+        width: 95%;
+        height: auto;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        background-color: aliceblue;
+        border-radius: 10px;
+    }
+    .devices p{
+        border-radius: 30px;
+        background-color: #282828;
+        color: white;
+
+    }
+    .devices a{
+        text-decoration: none;
+    }
+    .device1{
+        width: 30%;
+        height: auto;
+        margin: 2%;
+    }
+    .device2 {
+        width: 30%;
+        height: auto;
+        margin: 2%;
+    }
+    .device3{
+        width: 30%;
+        height: auto;
+        margin: 2%;
+    }
+    .container4{
+        margin-top: 1%;
+        display: flex;
+        width: 100%;
+        height: auto;
+        justify-content: center;
+        text-align: center;
+        flex-direction: row;
+    }
+    .donate{
+        display: flex;
+        width: 95%;
+        height: auto;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        background-color: aliceblue;
+        border-radius: 10px;
+    }
